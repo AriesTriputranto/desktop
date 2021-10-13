@@ -1,5 +1,7 @@
-# [GitHub Desktop](https://desktop.github.com)
-
+# [GitHub Desktop] 
+---- presenting :
+https://desktop.github.com
+https://support.github.com/deskop
 GitHub Desktop is an open source [Electron](https://www.electronjs.org/)-based
 GitHub app. It is written in [TypeScript](http://www.typescriptlang.org) and
 uses [React](https://reactjs.org/).
@@ -100,3 +102,4 @@ folder: [logos](app/static/logos).
 GitHub® and its stylized versions and the Invertocat mark are GitHub's
 Trademarks or registered Trademarks. When using GitHub's logos, be sure to
 follow the GitHub [logo guidelines](https://github.com/logos).
+--- Follow steps 
